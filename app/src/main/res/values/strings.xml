@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Evooq</string>
+    <string name="patient_state_dead">Can\'t fetch or administer drugs to DEAD patients.</string>
+    <string name="error_no_data_message">No data to display, fetch new data.</string>
+    <string name="error_no_drug_data_message">No drug data to display, fetch new data.</string>
+    <string name="error_no_network_message">No network connection, please try again.</string>
+    <string name="error_server_message">Server error. Please check if backend server is running.</string>
+    <string name="fragment_patient_details_label">Patient Details</string>
+    <string name="fragment_patient_list">Patient List</string>
+    <string name="fragment_hospital">Hospital</string>
+
+    <string name="tv_patient_id_label">Patient:</string>
+    <string name="tv_patient_state_label">State:</string>
+    <string name="tv_drug_id_label">Drug:</string>
+    <string name="tv_drug_name_label">Drug name:</string>
+    <string name="tab_patients">Patients</string>
+    <string name="tab_drugs">Drugs</string>
+    <string name="no_drugs_selected_message">No drugs selected for administration</string>
+    <string name="drug_selection_dialog_fragment_title">Select drugs for administration</string>
+    <string name="drug_selection_dialog_fragment_button_text">Confirm</string>
+    <string name="open_drug_selection_dialog_button_text">Select drugs</string>
+    <string name="get_data_button_text">Get Data</string>
+    <string name="administer_drugs_button_text">Administer Drugs</string>
+    <string name="error_selecting_user_text">Error selecting user. Please try again</string>
+</resources>

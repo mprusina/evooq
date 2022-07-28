@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="view_element_margin">16dp</dimen>
+    <dimen name="list_row_element_margin">8dp</dimen>
+</resources>
